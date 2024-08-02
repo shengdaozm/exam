@@ -1,3 +1,6 @@
 [submodule "exams_c++"]
 	path = exams_c++
 	url = https://github.com/shengdaozm/learning-cxx.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/shengdaozm/learning-cxx.git
